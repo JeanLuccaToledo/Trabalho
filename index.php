@@ -6,7 +6,7 @@
 </head>
 <body>
 	<h2>Cadastro Agronomia</h2>
-	<a href="html/tabelaProp.php"><button>Propriedade</button></a>
+	<a href="html/tabelaProp.php"><button>Propriedade GITHUB</button></a>
 	<br><br>
 	<a href="html/tabelaCult.php"><button>Culturas</button></a>
 	<br><br>
